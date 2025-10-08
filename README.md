@@ -14,4 +14,9 @@ Any extension that can block web elements (examples include Ublock Origin and Ad
 4. on the Chrome Settings tab, enter the url of the website you want to unblock. 3 blue dots should appear.
 5. Open the Element blocker extension, and block **IN BETWEEN THE 3 DOTS AND THE TOP LEFT OF THE SCREEN**.
 6. Spam about 64 Gmail tabs.
-And that's it! 
+   
+And that's it!
+---
+# Limitations
+
+>in progress
