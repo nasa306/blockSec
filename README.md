@@ -18,5 +18,7 @@ Any extension that can block web elements (examples include Ublock Origin and Ad
 And that's it!
 ---
 # Limitations
+- You have to individually block every single page, every time you want to visit.
+- Eventually, you do have to uninistall/reinstall your adblocker/extension every once in a while. (Adblock Plus only, "exploit" only tested with ADP and Ublock Origin)
 
->in progress
+Someone please improve this exploit, and this markdown file
