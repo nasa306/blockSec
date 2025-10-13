@@ -22,3 +22,11 @@ And that's it!
 - Eventually, you do have to uninistall/reinstall your adblocker/extension every once in a while. (Adblock Plus only, "exploit" only tested with ADP and Ublock Origin)
 
 Someone please improve this exploit, and this markdown file
+
+---
+# To-do
+- Automate it
+- Persistence?
+
+
+someone pls help me
